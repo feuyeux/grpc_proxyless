@@ -1,0 +1,1 @@
+kubectl logs -f istiod-cfcffb65d-xfdvf -n istio-system
